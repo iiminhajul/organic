@@ -1,0 +1,6 @@
+{
+  "name": "Ghorer Bazar - Organic Grocery & Food",
+  "description": "Premium online store for 100% natural, authentic and organic food products.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
